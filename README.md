@@ -1,5 +1,7 @@
 # INSTAGRAM-DETAILER
 
+## Jump to [Documentation](#documentation)
+
 # Note:
 * IP_project.py is the source code 
 * img_start.jpg is necessary to execute the code and should be in the same directory as code
@@ -47,7 +49,21 @@ Date_Saved | Varchar | 20
 * from tkinter import*
 
 # Documentation:
-## MySQL Database connection:
+
+## Jump to a section:
+* [MySQL Database Connection](#documentation)
+* [Font, Background and Text Colour](#documentation)
+* [Initilization of Tkinter Pages](#documentation)
+* [Login and Search Page](#documentation)
+* [Search Result Page](#documentation)
+* [Show Graph Page](#documentation)
+* [Save Profile (Code)](#documentation)
+* [Search Database Page](#documentation)
+* [Search Database Result](#documentation)
+* ["Go Home" Button (Code)](#documentation)
+* ["Close" Button (Code)](#documentation)
+
+## MySQL Database Connection:
 ![](Documentation%20Images/codemysqllogin.jpg)
 
 ## Font, Background and Text Colour:
@@ -78,7 +94,7 @@ Date_Saved | Varchar | 20
 ![](Documentation%20Images/codesearchresult3.jpg)
 ![](Documentation%20Images/codesearchresult4.jpg)
 
-## Show Graph:
+## Show Graph Page:
 ![](Documentation%20Images/profileGraph.jpg)
 
 ## Graph (Code):
