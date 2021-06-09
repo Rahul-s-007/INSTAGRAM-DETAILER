@@ -4,7 +4,7 @@
 * IP_project.py is the source code 
 * img_start.jpg is necessary to execute the code and should be in the same directory as code
 * All **File paths** and **MySQL** login deatils in code must be changed accordingly to your system
-* A data with the following [here](#structure-of-database:) must be created before executing the program
+* A data-base with the following [structure](#structure-of-database) must be created before executing the program
 
 *Documentation Images folder has no use in execution of code and is only used for README.md file*
 
@@ -30,4 +30,4 @@ Total_Comments | Varchar | 20
 Ghost_Followers	| Varchar | 20
 Date_Saved | Varchar | 20
 
-
+# Documentation:
