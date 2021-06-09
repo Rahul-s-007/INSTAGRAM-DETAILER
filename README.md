@@ -31,6 +31,8 @@ Total_Comments | Varchar | 20
 Ghost_Followers	| Varchar | 20
 Date_Saved | Varchar | 20
 
+![](Documentation%20Images/userdatatable.jpg)
+
 ## Imports:
 * import datetime
 * import matplotlib.pyplot as pl
@@ -45,3 +47,59 @@ Date_Saved | Varchar | 20
 * from tkinter import*
 
 # Documentation:
+## MySQL Database connection:
+![](Documentation%20Images/codemysqllogin.jpg)
+
+## Font, Background and Text Colour:
+![](Documentation%20Images/codefonts.jpg)
+
+## Initilization of Tkinter Pages:
+![](Documentation%20Images/codetkinit.jpg)
+
+## Home Page:
+![](Documentation%20Images/HomePage.jpg)
+
+## Home Page (Code):
+![](Documentation%20Images/codehomepage.jpg)
+
+## Login and Search Page:
+![](Documentation%20Images/loginpage.jpg)
+
+## Login and Search Page (Code):
+![](Documentation%20Images/codeloginpage1.jpg)
+![](Documentation%20Images/codeloginpage2.jpg)
+
+## Search Result Page:
+![](Documentation%20Images/afterlogin.jpg)
+
+## Search Result (Code):
+![](Documentation%20Images/codesearchresult1.jpg)
+![](Documentation%20Images/codesearchresult2.jpg)
+![](Documentation%20Images/codesearchresult3.jpg)
+![](Documentation%20Images/codesearchresult4.jpg)
+
+## Show Graph:
+![](Documentation%20Images/profileGraph.jpg)
+
+## Graph (Code):
+![](Documentation%20Images/codeshowgraph.jpg)
+
+## Save Profile (Code):
+![](Documentation%20Images/codesaveprofile1.jpg)
+![](Documentation%20Images/codesaveprofile2.jpg)
+
+## Search Database Page:
+![](Documentation%20Images/codesearchdatabase1.jpg)
+
+## Search Database Result:
+![](Documentation%20Images/databaseresult.jpg)
+
+## Search Database Result (Code):
+![](Documentation%20Images/codesearchdatabase2.jpg)
+![](Documentation%20Images/codesearchdatabase3.jpg)
+
+## "Go Home" Button (Code):
+![](Documentation%20Images/codebacktohome.jpg)
+
+## "Close" Button (Code):
+![](Documentation%20Images/codeexitprogram.jpg)
