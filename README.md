@@ -5,6 +5,8 @@
 * GUI- Tkinter
 * Backend/Database- MySQL
 
+*img_start.jpg should be in the same directory as code*
+
 ## Structure of Database-
 
 ### Table name: **userdata**	
@@ -20,3 +22,5 @@ Total_Likes	| Varchar	| 20
 Total_Comments | Varchar | 20
 Ghost_Followers	| Varchar | 20
 Date_Saved | Varchar | 20
+
+
