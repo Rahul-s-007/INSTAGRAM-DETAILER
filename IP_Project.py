@@ -12,7 +12,7 @@
 
 #--MySQL-Connection-------------------------------------------------------------------------------------
 import mysql.connector
-mydb = mysql.connector.connect(host="localhost", user="root", passwd="772003",database="school_project")
+mydb = mysql.connector.connect(host="localhost", user="root", passwd="123456",database="school_project")
 mycursor = mydb.cursor()
 
 #-IMPORTS-----------------------------------------------------------------------------------------------
@@ -121,15 +121,11 @@ def credits_page():
     heading = Label(root_credits, text ='Credits',font =('',40), bg = bg, fg = high_font_col)
     heading.place(x = 300, y = 10)
     heading = Label(root_credits, text ='Rahul Sumbly',font =('',20), bg = bg, fg = high_font_col)
-    heading.place(x = 150, y = 100)
-    heading = Label(root_credits, text ='Amogh Vijayvargiya',font =('',20), bg = bg, fg = high_font_col)
     heading.place(x = 150, y = 200)
-    heading = Label(root_credits, text ='Devanshu Soneta',font =('',20), bg = bg, fg = high_font_col)
-    heading.place(x = 150, y = 300)
     user_Button = Button(root_credits, text ='Go Home', font = (30),command = lambda:back_to_home() , bg = bg, fg = fg)
     user_Button.place(x = 500, y =200)
 
-
+    
 #--SEARCH-USER-ONLINE-PAGE-----------------------------------------------------------------------------------
 def user_search():
     root_db.deiconify()
