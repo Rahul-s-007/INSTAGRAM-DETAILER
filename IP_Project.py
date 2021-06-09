@@ -100,7 +100,7 @@ def back_to_home():
         print("No Lable found")
 
 
-#--EXIT-PROGRAM------------------------------------------------------------------------------------------
+#--EXIT-PROGRAM--------------------------------------------------------------------------------------------
 def exit_program():
     shutil.rmtree(path = 'C:\\Users\\RAHUL\\Desktop\\IP_Project\\target_profile', ignore_errors= True)
     try:
@@ -126,7 +126,7 @@ def credits_page():
     user_Button.place(x = 500, y =200)
 
     
-#--SEARCH-USER-ONLINE-PAGE-----------------------------------------------------------------------------------
+#--SEARCH-USER-STORED-IN-DATABASE-PAGE------------------------------------------------------------------------------
 def user_search():
     root_db.deiconify()
     root.withdraw()
@@ -145,7 +145,7 @@ def user_search():
     home_Button.place(x = 600, y = 95)
 
 
-#--SEARCH-USER-FROM-DATABASE--------------------------------------------------------------------------------
+#--SEARCH-USER-FROM-DATABASE----------------------------------------------------------------------------------
 def user_database(a):
     username = a
     query = "SELECT EXISTS(SELECT * from userdata WHERE username = "+"'"+username+"'"+")"
