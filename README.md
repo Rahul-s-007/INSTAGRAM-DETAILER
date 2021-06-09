@@ -51,17 +51,18 @@ Date_Saved | Varchar | 20
 # Documentation:
 
 ## Jump to a section:
-* [MySQL Database Connection](#documentation)
-* [Font, Background and Text Colour](#documentation)
-* [Initilization of Tkinter Pages](#documentation)
-* [Login and Search Page](#documentation)
-* [Search Result Page](#documentation)
-* [Show Graph Page](#documentation)
-* [Save Profile (Code)](#documentation)
-* [Search Database Page](#documentation)
-* [Search Database Result](#documentation)
-* ["Go Home" Button (Code)](#documentation)
-* ["Close" Button (Code)](#documentation)
+* [MySQL Database Connection](#mysql-database-connection)
+* [Font, Background and Text Colour](#font-background-and-text-colour)
+* [Initilization of Tkinter Pages](#initilization-of-tkinter-pages)
+* [Home Page](#home-page)
+* [Login and Search Page](#login-and-search-page)
+* [Search Result Page](#search-result-page)
+* [Show Graph Page](#show-graph-page)
+* [Save Profile (Code)](#save-profile-code)
+* [Search Database Page](#search-database-page)
+* [Search Database Result](#search-database-result)
+* ["Go Home" Button (Code)](#go-home-button-code)
+* ["Close" Button (Code)](#close-button-code)
 
 ## MySQL Database Connection:
 ![](Documentation%20Images/codemysqllogin.jpg)
@@ -105,6 +106,9 @@ Date_Saved | Varchar | 20
 ![](Documentation%20Images/codesaveprofile2.jpg)
 
 ## Search Database Page:
+![](Documentation%20Images/databasesearch.jpg)
+
+## Search Database Page (Code):
 ![](Documentation%20Images/codesearchdatabase1.jpg)
 
 ## Search Database Result:
