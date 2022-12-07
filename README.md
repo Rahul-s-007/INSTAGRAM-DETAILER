@@ -63,6 +63,7 @@ Date_Saved | Varchar | 20
 * [Search Database Result](#search-database-result)
 * ["Go Home" Button (Code)](#go-home-button-code)
 * ["Close" Button (Code)](#close-button-code)
+* [Limitations](#limitations-of-this-application-software)
 
 ## MySQL Database Connection:
 ![](Documentation%20Images/codemysqllogin.jpg)
@@ -123,3 +124,9 @@ Date_Saved | Varchar | 20
 
 ## "Close" Button (Code):
 ![](Documentation%20Images/codeexitprogram.jpg)
+
+## Limitations of this application software:
+### 1. In the case of Private Instagram Accounts the user needs to be in the followers list      of the said target account.
+### 2. The metric of “Ghost Followers” is meaningless in case the target profile has    zero Instagram posts.
+### 3. In a single run instance, the user can retrieve data from only one target profile at a time.
+
